@@ -2,10 +2,12 @@ public class Main {
     public static void main(String args[]){
         System.out.println("Hola, Bienvenidos a Java!!");
         System.out.println("Hola a todos!!!");
+        
+        // Editado desde la GITHUB web
 
 
-        int edad = 25; // =>  Ddeclaración e inicialización
-        edad = edad + 30; // => Asignacioón (cambio de valor) + operación
+        int edad = 40; // =>  Ddeclaración e inicialización
+        edad = edad + 51; // => Asignacioón (cambio de valor) + operación
 
         String nombre;   // => Declaración
         nombre = "Jean Karlo";  // => Asignación
